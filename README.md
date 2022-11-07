@@ -8,5 +8,7 @@ We trained a new [model](/armenian_acoustic_model.zip) on the Armenian data from
 We manually the pronunciation dictionary in [pronDict](/pronDictOriginal.txt) by examining the tokens in FLEURS against the Armenian Wiktionary entries on [Wikipron](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/hye_armn_e_narrow_filtered.tsv). The model generated a [dictionary](/pronDictFinal) with weights. The model generated the TextGrids in [text_textgrid](/text_textgrid/). These alignments seem accurate but not perfect. 
 
 ## What we will do
-There was a number of out-of-vocabulary words that we are slowly adding to the pronunciation dictionary. These were numbers that were often pronounced differently by different speakers. We are also double-checking the individual sound files to find errors in the transcript. 
+There was a number of out-of-vocabulary words that we are slowly adding to the pronunciation dictionary. These were numbers that were often pronounced differently by different speakers. We will add these OOV words slowly to the pronunciation dictionary, and then re-run the training and alignment. 
+
+We are also double-checking the individual sound files to find errors in the transcript. 
 
