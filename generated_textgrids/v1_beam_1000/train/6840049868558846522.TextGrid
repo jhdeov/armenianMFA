@@ -1,0 +1,494 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 7.26
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 7.26
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.8
+			text = ""
+		intervals [2]:
+			xmin = 0.8
+			xmax = 1.18
+			text = "թիմի"
+		intervals [3]:
+			xmin = 1.18
+			xmax = 1.33
+			text = "հետ"
+		intervals [4]:
+			xmin = 1.33
+			xmax = 1.96
+			text = "անցկացրած"
+		intervals [5]:
+			xmin = 1.96
+			xmax = 2.06
+			text = "իր"
+		intervals [6]:
+			xmin = 2.06
+			xmax = 2.66
+			text = "ժամանակի"
+		intervals [7]:
+			xmin = 2.66
+			xmax = 3.13
+			text = "ընթացքում"
+		intervals [8]:
+			xmin = 3.13
+			xmax = 3.37
+			text = "նա"
+		intervals [9]:
+			xmin = 3.37
+			xmax = 3.65
+			text = "չորս"
+		intervals [10]:
+			xmin = 3.65
+			xmax = 3.8
+			text = "հարյուր"
+		intervals [11]:
+			xmin = 3.8
+			xmax = 4.14
+			text = "վաթսուն"
+		intervals [12]:
+			xmin = 4.14
+			xmax = 4.3
+			text = "ութ"
+		intervals [13]:
+			xmin = 4.3
+			xmax = 4.33
+			text = ""
+		intervals [14]:
+			xmin = 4.33
+			xmax = 4.8
+			text = "ելույթում"
+		intervals [15]:
+			xmin = 4.8
+			xmax = 5.1
+			text = "խփել"
+		intervals [16]:
+			xmin = 5.1
+			xmax = 5.18
+			text = "է"
+		intervals [17]:
+			xmin = 5.18
+			xmax = 5.45
+			text = "չորս"
+		intervals [18]:
+			xmin = 5.45
+			xmax = 5.61
+			text = "հարյուր"
+		intervals [19]:
+			xmin = 5.61
+			xmax = 6.01
+			text = "երեք"
+		intervals [20]:
+			xmin = 6.01
+			xmax = 6.29
+			text = "գոլ"
+		intervals [21]:
+			xmin = 6.29
+			xmax = 7.26
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 7.26
+		intervals: size = 90
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.8
+			text = ""
+		intervals [2]:
+			xmin = 0.8
+			xmax = 0.94
+			text = "tʰ"
+		intervals [3]:
+			xmin = 0.94
+			xmax = 0.99
+			text = "i"
+		intervals [4]:
+			xmin = 0.99
+			xmax = 1.04
+			text = "m"
+		intervals [5]:
+			xmin = 1.04
+			xmax = 1.18
+			text = "i"
+		intervals [6]:
+			xmin = 1.18
+			xmax = 1.2
+			text = "h"
+		intervals [7]:
+			xmin = 1.2
+			xmax = 1.26
+			text = "e"
+		intervals [8]:
+			xmin = 1.26
+			xmax = 1.33
+			text = "t"
+		intervals [9]:
+			xmin = 1.33
+			xmax = 1.36
+			text = "ɑ"
+		intervals [10]:
+			xmin = 1.36
+			xmax = 1.44
+			text = "n"
+		intervals [11]:
+			xmin = 1.44
+			xmax = 1.5
+			text = "t͡sʰ"
+		intervals [12]:
+			xmin = 1.5
+			xmax = 1.56
+			text = "k"
+		intervals [13]:
+			xmin = 1.56
+			xmax = 1.62
+			text = "ɑ"
+		intervals [14]:
+			xmin = 1.62
+			xmax = 1.77
+			text = "t͡sʰ"
+		intervals [15]:
+			xmin = 1.77
+			xmax = 1.83
+			text = "ɾ"
+		intervals [16]:
+			xmin = 1.83
+			xmax = 1.86
+			text = "ɑ"
+		intervals [17]:
+			xmin = 1.86
+			xmax = 1.96
+			text = "t͡s"
+		intervals [18]:
+			xmin = 1.96
+			xmax = 2.05
+			text = "i"
+		intervals [19]:
+			xmin = 2.05
+			xmax = 2.06
+			text = "ɾ"
+		intervals [20]:
+			xmin = 2.06
+			xmax = 2.17
+			text = "ʒ"
+		intervals [21]:
+			xmin = 2.17
+			xmax = 2.24
+			text = "ɑ"
+		intervals [22]:
+			xmin = 2.24
+			xmax = 2.31
+			text = "m"
+		intervals [23]:
+			xmin = 2.31
+			xmax = 2.34
+			text = "ɑ"
+		intervals [24]:
+			xmin = 2.34
+			xmax = 2.44
+			text = "n"
+		intervals [25]:
+			xmin = 2.44
+			xmax = 2.49
+			text = "ɑ"
+		intervals [26]:
+			xmin = 2.49
+			xmax = 2.6
+			text = "k"
+		intervals [27]:
+			xmin = 2.6
+			xmax = 2.66
+			text = "i"
+		intervals [28]:
+			xmin = 2.66
+			xmax = 2.67
+			text = "ə"
+		intervals [29]:
+			xmin = 2.67
+			xmax = 2.7
+			text = "n"
+		intervals [30]:
+			xmin = 2.7
+			xmax = 2.82
+			text = "tʰ"
+		intervals [31]:
+			xmin = 2.82
+			xmax = 2.86
+			text = "ɑ"
+		intervals [32]:
+			xmin = 2.86
+			xmax = 2.95
+			text = "t͡sʰ"
+		intervals [33]:
+			xmin = 2.95
+			xmax = 3.03
+			text = "kʰ"
+		intervals [34]:
+			xmin = 3.03
+			xmax = 3.08
+			text = "u"
+		intervals [35]:
+			xmin = 3.08
+			xmax = 3.13
+			text = "m"
+		intervals [36]:
+			xmin = 3.13
+			xmax = 3.24
+			text = "n"
+		intervals [37]:
+			xmin = 3.24
+			xmax = 3.37
+			text = "ɑ"
+		intervals [38]:
+			xmin = 3.37
+			xmax = 3.49
+			text = "t͡ʃʰ"
+		intervals [39]:
+			xmin = 3.49
+			xmax = 3.54
+			text = "o"
+		intervals [40]:
+			xmin = 3.54
+			xmax = 3.55
+			text = "ɾ"
+		intervals [41]:
+			xmin = 3.55
+			xmax = 3.65
+			text = "s"
+		intervals [42]:
+			xmin = 3.65
+			xmax = 3.67
+			text = "h"
+		intervals [43]:
+			xmin = 3.67
+			xmax = 3.75
+			text = "ɑ"
+		intervals [44]:
+			xmin = 3.75
+			xmax = 3.76
+			text = "ɾ"
+		intervals [45]:
+			xmin = 3.76
+			xmax = 3.77
+			text = "j"
+		intervals [46]:
+			xmin = 3.77
+			xmax = 3.79
+			text = "u"
+		intervals [47]:
+			xmin = 3.79
+			xmax = 3.8
+			text = "ɾ"
+		intervals [48]:
+			xmin = 3.8
+			xmax = 3.84
+			text = "v"
+		intervals [49]:
+			xmin = 3.84
+			xmax = 3.91
+			text = "ɑ"
+		intervals [50]:
+			xmin = 3.91
+			xmax = 3.99
+			text = "tʰ"
+		intervals [51]:
+			xmin = 3.99
+			xmax = 4.04
+			text = "s"
+		intervals [52]:
+			xmin = 4.04
+			xmax = 4.07
+			text = "u"
+		intervals [53]:
+			xmin = 4.07
+			xmax = 4.14
+			text = "n"
+		intervals [54]:
+			xmin = 4.14
+			xmax = 4.22
+			text = "u"
+		intervals [55]:
+			xmin = 4.22
+			xmax = 4.3
+			text = "tʰ"
+		intervals [56]:
+			xmin = 4.3
+			xmax = 4.33
+			text = ""
+		intervals [57]:
+			xmin = 4.33
+			xmax = 4.39
+			text = "j"
+		intervals [58]:
+			xmin = 4.39
+			xmax = 4.51
+			text = "e"
+		intervals [59]:
+			xmin = 4.51
+			xmax = 4.53
+			text = "l"
+		intervals [60]:
+			xmin = 4.53
+			xmax = 4.57
+			text = "u"
+		intervals [61]:
+			xmin = 4.57
+			xmax = 4.64
+			text = "j"
+		intervals [62]:
+			xmin = 4.64
+			xmax = 4.71
+			text = "tʰ"
+		intervals [63]:
+			xmin = 4.71
+			xmax = 4.74
+			text = "u"
+		intervals [64]:
+			xmin = 4.74
+			xmax = 4.8
+			text = "m"
+		intervals [65]:
+			xmin = 4.8
+			xmax = 4.89
+			text = "χ"
+		intervals [66]:
+			xmin = 4.89
+			xmax = 4.91
+			text = "ə"
+		intervals [67]:
+			xmin = 4.91
+			xmax = 5.02
+			text = "pʰ"
+		intervals [68]:
+			xmin = 5.02
+			xmax = 5.08
+			text = "e"
+		intervals [69]:
+			xmin = 5.08
+			xmax = 5.1
+			text = "l"
+		intervals [70]:
+			xmin = 5.1
+			xmax = 5.11
+			text = "j"
+		intervals [71]:
+			xmin = 5.11
+			xmax = 5.18
+			text = "e"
+		intervals [72]:
+			xmin = 5.18
+			xmax = 5.29
+			text = "t͡ʃʰ"
+		intervals [73]:
+			xmin = 5.29
+			xmax = 5.34
+			text = "o"
+		intervals [74]:
+			xmin = 5.34
+			xmax = 5.35
+			text = "ɾ"
+		intervals [75]:
+			xmin = 5.35
+			xmax = 5.45
+			text = "s"
+		intervals [76]:
+			xmin = 5.45
+			xmax = 5.47
+			text = "h"
+		intervals [77]:
+			xmin = 5.47
+			xmax = 5.5
+			text = "ɑ"
+		intervals [78]:
+			xmin = 5.5
+			xmax = 5.57
+			text = "ɾ"
+		intervals [79]:
+			xmin = 5.57
+			xmax = 5.58
+			text = "j"
+		intervals [80]:
+			xmin = 5.58
+			xmax = 5.6
+			text = "u"
+		intervals [81]:
+			xmin = 5.6
+			xmax = 5.61
+			text = "ɾ"
+		intervals [82]:
+			xmin = 5.61
+			xmax = 5.76
+			text = "j"
+		intervals [83]:
+			xmin = 5.76
+			xmax = 5.87
+			text = "e"
+		intervals [84]:
+			xmin = 5.87
+			xmax = 5.88
+			text = "ɾ"
+		intervals [85]:
+			xmin = 5.88
+			xmax = 5.97
+			text = "e"
+		intervals [86]:
+			xmin = 5.97
+			xmax = 6.01
+			text = "kʰ"
+		intervals [87]:
+			xmin = 6.01
+			xmax = 6.16
+			text = "ɡ"
+		intervals [88]:
+			xmin = 6.16
+			xmax = 6.27
+			text = "o"
+		intervals [89]:
+			xmin = 6.27
+			xmax = 6.29
+			text = "l"
+		intervals [90]:
+			xmin = 6.29
+			xmax = 7.26
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 7.26
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.26
+			text = "Թիմի հետ անցկացրած իր ժամանակի ընթացքում նա 468 ելույթում խփել է 403 գոլ։"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 7.26
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.26
+			text = "Թիմի հետ անցկացրած իր ժամանակի ընթացքում նա չորս հարյուր վաթսուն ութ ելույթում խփել է չորս հարյուր երեք գոլ"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 7.26
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.26
+			text = ""

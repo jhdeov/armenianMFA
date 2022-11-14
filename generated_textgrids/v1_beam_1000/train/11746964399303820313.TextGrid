@@ -1,0 +1,386 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.32
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 10.32
+		intervals: size = 17
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.22
+			text = ""
+		intervals [2]:
+			xmin = 2.22
+			xmax = 2.69
+			text = "չաթեմ"
+		intervals [3]:
+			xmin = 2.69
+			xmax = 3.29
+			text = "կղզիներում"
+		intervals [4]:
+			xmin = 3.29
+			xmax = 3.5
+			text = "կար"
+		intervals [5]:
+			xmin = 3.5
+			xmax = 3.89
+			text = "ևս"
+		intervals [6]:
+			xmin = 3.89
+			xmax = 4.11
+			text = "մեկ"
+		intervals [7]:
+			xmin = 4.11
+			xmax = 4.47
+			text = "ցեղ"
+		intervals [8]:
+			xmin = 4.47
+			xmax = 4.79
+			text = ""
+		intervals [9]:
+			xmin = 4.79
+			xmax = 5.33
+			text = "մաորի"
+		intervals [10]:
+			xmin = 5.33
+			xmax = 5.76
+			text = "ցեղը"
+		intervals [11]:
+			xmin = 5.76
+			xmax = 6.12
+			text = ""
+		intervals [12]:
+			xmin = 6.12
+			xmax = 6.34
+			text = "որը"
+		intervals [13]:
+			xmin = 6.34
+			xmax = 6.82
+			text = "գաղթել"
+		intervals [14]:
+			xmin = 6.82
+			xmax = 6.92
+			text = "է"
+		intervals [15]:
+			xmin = 6.92
+			xmax = 7.08
+			text = "նոր"
+		intervals [16]:
+			xmin = 7.08
+			xmax = 7.97
+			text = "զելանդիայից"
+		intervals [17]:
+			xmin = 7.97
+			xmax = 10.32
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 10.32
+		intervals: size = 67
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.22
+			text = ""
+		intervals [2]:
+			xmin = 2.22
+			xmax = 2.32
+			text = "t͡ʃʰ"
+		intervals [3]:
+			xmin = 2.32
+			xmax = 2.41
+			text = "ɑ"
+		intervals [4]:
+			xmin = 2.41
+			xmax = 2.51
+			text = "tʰ"
+		intervals [5]:
+			xmin = 2.51
+			xmax = 2.57
+			text = "e"
+		intervals [6]:
+			xmin = 2.57
+			xmax = 2.69
+			text = "m"
+		intervals [7]:
+			xmin = 2.69
+			xmax = 2.75
+			text = "k"
+		intervals [8]:
+			xmin = 2.75
+			xmax = 2.77
+			text = "ə"
+		intervals [9]:
+			xmin = 2.77
+			xmax = 2.84
+			text = "ʁ"
+		intervals [10]:
+			xmin = 2.84
+			xmax = 2.92
+			text = "z"
+		intervals [11]:
+			xmin = 2.92
+			xmax = 3.05
+			text = "i"
+		intervals [12]:
+			xmin = 3.05
+			xmax = 3.06
+			text = "n"
+		intervals [13]:
+			xmin = 3.06
+			xmax = 3.15
+			text = "e"
+		intervals [14]:
+			xmin = 3.15
+			xmax = 3.16
+			text = "ɾ"
+		intervals [15]:
+			xmin = 3.16
+			xmax = 3.22
+			text = "u"
+		intervals [16]:
+			xmin = 3.22
+			xmax = 3.29
+			text = "m"
+		intervals [17]:
+			xmin = 3.29
+			xmax = 3.39
+			text = "k"
+		intervals [18]:
+			xmin = 3.39
+			xmax = 3.47
+			text = "ɑ"
+		intervals [19]:
+			xmin = 3.47
+			xmax = 3.5
+			text = "ɾ"
+		intervals [20]:
+			xmin = 3.5
+			xmax = 3.58
+			text = "j"
+		intervals [21]:
+			xmin = 3.58
+			xmax = 3.65
+			text = "e"
+		intervals [22]:
+			xmin = 3.65
+			xmax = 3.72
+			text = "v"
+		intervals [23]:
+			xmin = 3.72
+			xmax = 3.74
+			text = "ə"
+		intervals [24]:
+			xmin = 3.74
+			xmax = 3.89
+			text = "s"
+		intervals [25]:
+			xmin = 3.89
+			xmax = 3.93
+			text = "m"
+		intervals [26]:
+			xmin = 3.93
+			xmax = 3.99
+			text = "e"
+		intervals [27]:
+			xmin = 3.99
+			xmax = 4.11
+			text = "k"
+		intervals [28]:
+			xmin = 4.11
+			xmax = 4.21
+			text = "t͡sʰ"
+		intervals [29]:
+			xmin = 4.21
+			xmax = 4.33
+			text = "e"
+		intervals [30]:
+			xmin = 4.33
+			xmax = 4.47
+			text = "ʁ"
+		intervals [31]:
+			xmin = 4.47
+			xmax = 4.79
+			text = ""
+		intervals [32]:
+			xmin = 4.79
+			xmax = 4.9
+			text = "m"
+		intervals [33]:
+			xmin = 4.9
+			xmax = 5.08
+			text = "ɑ"
+		intervals [34]:
+			xmin = 5.08
+			xmax = 5.21
+			text = "o"
+		intervals [35]:
+			xmin = 5.21
+			xmax = 5.22
+			text = "ɾ"
+		intervals [36]:
+			xmin = 5.22
+			xmax = 5.33
+			text = "i"
+		intervals [37]:
+			xmin = 5.33
+			xmax = 5.47
+			text = "t͡sʰ"
+		intervals [38]:
+			xmin = 5.47
+			xmax = 5.57
+			text = "e"
+		intervals [39]:
+			xmin = 5.57
+			xmax = 5.73
+			text = "ʁ"
+		intervals [40]:
+			xmin = 5.73
+			xmax = 5.76
+			text = "ə"
+		intervals [41]:
+			xmin = 5.76
+			xmax = 6.12
+			text = ""
+		intervals [42]:
+			xmin = 6.12
+			xmax = 6.16
+			text = "v"
+		intervals [43]:
+			xmin = 6.16
+			xmax = 6.24
+			text = "o"
+		intervals [44]:
+			xmin = 6.24
+			xmax = 6.32
+			text = "ɾ"
+		intervals [45]:
+			xmin = 6.32
+			xmax = 6.34
+			text = "ə"
+		intervals [46]:
+			xmin = 6.34
+			xmax = 6.44
+			text = "ɡ"
+		intervals [47]:
+			xmin = 6.44
+			xmax = 6.52
+			text = "ɑ"
+		intervals [48]:
+			xmin = 6.52
+			xmax = 6.63
+			text = "χ"
+		intervals [49]:
+			xmin = 6.63
+			xmax = 6.7
+			text = "tʰ"
+		intervals [50]:
+			xmin = 6.7
+			xmax = 6.8
+			text = "e"
+		intervals [51]:
+			xmin = 6.8
+			xmax = 6.82
+			text = "l"
+		intervals [52]:
+			xmin = 6.82
+			xmax = 6.92
+			text = "e"
+		intervals [53]:
+			xmin = 6.92
+			xmax = 6.97
+			text = "n"
+		intervals [54]:
+			xmin = 6.97
+			xmax = 7.07
+			text = "o"
+		intervals [55]:
+			xmin = 7.07
+			xmax = 7.08
+			text = "ɾ"
+		intervals [56]:
+			xmin = 7.08
+			xmax = 7.2
+			text = "z"
+		intervals [57]:
+			xmin = 7.2
+			xmax = 7.3
+			text = "e"
+		intervals [58]:
+			xmin = 7.3
+			xmax = 7.32
+			text = "l"
+		intervals [59]:
+			xmin = 7.32
+			xmax = 7.44
+			text = "ɑ"
+		intervals [60]:
+			xmin = 7.44
+			xmax = 7.45
+			text = "n"
+		intervals [61]:
+			xmin = 7.45
+			xmax = 7.58
+			text = "d"
+		intervals [62]:
+			xmin = 7.58
+			xmax = 7.64
+			text = "j"
+		intervals [63]:
+			xmin = 7.64
+			xmax = 7.69
+			text = "ɑ"
+		intervals [64]:
+			xmin = 7.69
+			xmax = 7.7
+			text = "j"
+		intervals [65]:
+			xmin = 7.7
+			xmax = 7.81
+			text = "i"
+		intervals [66]:
+			xmin = 7.81
+			xmax = 7.97
+			text = "t͡sʰ"
+		intervals [67]:
+			xmin = 7.97
+			xmax = 10.32
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 10.32
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 10.32
+			text = "Չաթեմ կղզիներում կար ևս մեկ ցեղ՝ Մաորի ցեղը, որը գաղթել է Նոր Զելանդիայից:"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 10.32
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 10.32
+			text = "Չաթեմ կղզիներում կար ևս մեկ ցեղ Մաորի ցեղը որը գաղթել է Նոր Զելանդիայից"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 10.32
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 10.32
+			text = ""

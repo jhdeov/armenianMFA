@@ -1,0 +1,270 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 7.2
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 11
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.26
+			text = ""
+		intervals [2]:
+			xmin = 2.26
+			xmax = 2.68
+			text = "իբեյի"
+		intervals [3]:
+			xmin = 2.68
+			xmax = 3.34
+			text = "պատմության"
+		intervals [4]:
+			xmin = 3.34
+			xmax = 3.61
+			text = "մեջ"
+		intervals [5]:
+			xmin = 3.61
+			xmax = 3.8
+			text = "դա"
+		intervals [6]:
+			xmin = 3.8
+			xmax = 5.31
+			text = "ամենախոշոր"
+		intervals [7]:
+			xmin = 5.31
+			xmax = 6.57
+			text = ""
+		intervals [8]:
+			xmin = 6.57
+			xmax = 7.1
+			text = "ձեռքբերումն"
+		intervals [9]:
+			xmin = 7.1
+			xmax = 7.13
+			text = ""
+		intervals [10]:
+			xmin = 7.13
+			xmax = 7.15
+			text = "է"
+		intervals [11]:
+			xmin = 7.15
+			xmax = 7.2
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 44
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.26
+			text = ""
+		intervals [2]:
+			xmin = 2.26
+			xmax = 2.34
+			text = "i"
+		intervals [3]:
+			xmin = 2.34
+			xmax = 2.44
+			text = "b"
+		intervals [4]:
+			xmin = 2.44
+			xmax = 2.64
+			text = "e"
+		intervals [5]:
+			xmin = 2.64
+			xmax = 2.65
+			text = "j"
+		intervals [6]:
+			xmin = 2.65
+			xmax = 2.68
+			text = "i"
+		intervals [7]:
+			xmin = 2.68
+			xmax = 2.88
+			text = "p"
+		intervals [8]:
+			xmin = 2.88
+			xmax = 2.89
+			text = "ɑ"
+		intervals [9]:
+			xmin = 2.89
+			xmax = 2.93
+			text = "t"
+		intervals [10]:
+			xmin = 2.93
+			xmax = 2.97
+			text = "m"
+		intervals [11]:
+			xmin = 2.97
+			xmax = 3.04
+			text = "u"
+		intervals [12]:
+			xmin = 3.04
+			xmax = 3.15
+			text = "t͡sʰ"
+		intervals [13]:
+			xmin = 3.15
+			xmax = 3.16
+			text = "j"
+		intervals [14]:
+			xmin = 3.16
+			xmax = 3.33
+			text = "ɑ"
+		intervals [15]:
+			xmin = 3.33
+			xmax = 3.34
+			text = "n"
+		intervals [16]:
+			xmin = 3.34
+			xmax = 3.39
+			text = "m"
+		intervals [17]:
+			xmin = 3.39
+			xmax = 3.45
+			text = "e"
+		intervals [18]:
+			xmin = 3.45
+			xmax = 3.61
+			text = "t͡ʃʰ"
+		intervals [19]:
+			xmin = 3.61
+			xmax = 3.64
+			text = "d"
+		intervals [20]:
+			xmin = 3.64
+			xmax = 3.8
+			text = "ɑ"
+		intervals [21]:
+			xmin = 3.8
+			xmax = 3.83
+			text = "ɑ"
+		intervals [22]:
+			xmin = 3.83
+			xmax = 3.87
+			text = "m"
+		intervals [23]:
+			xmin = 3.87
+			xmax = 3.94
+			text = "e"
+		intervals [24]:
+			xmin = 3.94
+			xmax = 3.97
+			text = "n"
+		intervals [25]:
+			xmin = 3.97
+			xmax = 4.07
+			text = "ɑ"
+		intervals [26]:
+			xmin = 4.07
+			xmax = 4.18
+			text = "χ"
+		intervals [27]:
+			xmin = 4.18
+			xmax = 4.26
+			text = "o"
+		intervals [28]:
+			xmin = 4.26
+			xmax = 4.37
+			text = "ʃ"
+		intervals [29]:
+			xmin = 4.37
+			xmax = 4.43
+			text = "o"
+		intervals [30]:
+			xmin = 4.43
+			xmax = 5.31
+			text = "ɾ"
+		intervals [31]:
+			xmin = 5.31
+			xmax = 6.57
+			text = ""
+		intervals [32]:
+			xmin = 6.57
+			xmax = 6.62
+			text = "d͡z"
+		intervals [33]:
+			xmin = 6.62
+			xmax = 6.65
+			text = "e"
+		intervals [34]:
+			xmin = 6.65
+			xmax = 6.68
+			text = "r"
+		intervals [35]:
+			xmin = 6.68
+			xmax = 6.71
+			text = "kʰ"
+		intervals [36]:
+			xmin = 6.71
+			xmax = 6.76
+			text = "b"
+		intervals [37]:
+			xmin = 6.76
+			xmax = 6.79
+			text = "e"
+		intervals [38]:
+			xmin = 6.79
+			xmax = 6.8
+			text = "ɾ"
+		intervals [39]:
+			xmin = 6.8
+			xmax = 6.83
+			text = "u"
+		intervals [40]:
+			xmin = 6.83
+			xmax = 6.87
+			text = "m"
+		intervals [41]:
+			xmin = 6.87
+			xmax = 7.1
+			text = "n"
+		intervals [42]:
+			xmin = 7.1
+			xmax = 7.13
+			text = ""
+		intervals [43]:
+			xmin = 7.13
+			xmax = 7.15
+			text = "e"
+		intervals [44]:
+			xmin = 7.15
+			xmax = 7.2
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.2
+			text = "իԲեյի պատմության մեջ դա ամենախոշոր ձեռքբերումն է։"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.2
+			text = "իԲեյի պատմության մեջ դա ամենախոշոր ձեռքբերումն է"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 7.2
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 7.2
+			text = ""

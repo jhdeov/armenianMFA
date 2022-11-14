@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.48
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 6.48
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.14
+			text = ""
+		intervals [2]:
+			xmin = 2.14
+			xmax = 2.74
+			text = "բնակարանի"
+		intervals [3]:
+			xmin = 2.74
+			xmax = 3.25
+			text = "ներսում"
+		intervals [4]:
+			xmin = 3.25
+			xmax = 3.49
+			text = "ոչ"
+		intervals [5]:
+			xmin = 3.49
+			xmax = 3.66
+			text = "ոք"
+		intervals [6]:
+			xmin = 3.66
+			xmax = 3.71
+			text = ""
+		intervals [7]:
+			xmin = 3.71
+			xmax = 4.13
+			text = "չկար"
+		intervals [8]:
+			xmin = 4.13
+			xmax = 6.48
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.48
+		intervals: size = 30
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.14
+			text = ""
+		intervals [2]:
+			xmin = 2.14
+			xmax = 2.17
+			text = "b"
+		intervals [3]:
+			xmin = 2.17
+			xmax = 2.19
+			text = "ə"
+		intervals [4]:
+			xmin = 2.19
+			xmax = 2.26
+			text = "n"
+		intervals [5]:
+			xmin = 2.26
+			xmax = 2.34
+			text = "ɑ"
+		intervals [6]:
+			xmin = 2.34
+			xmax = 2.43
+			text = "k"
+		intervals [7]:
+			xmin = 2.43
+			xmax = 2.52
+			text = "ɑ"
+		intervals [8]:
+			xmin = 2.52
+			xmax = 2.53
+			text = "ɾ"
+		intervals [9]:
+			xmin = 2.53
+			xmax = 2.61
+			text = "ɑ"
+		intervals [10]:
+			xmin = 2.61
+			xmax = 2.7
+			text = "n"
+		intervals [11]:
+			xmin = 2.7
+			xmax = 2.74
+			text = "i"
+		intervals [12]:
+			xmin = 2.74
+			xmax = 2.82
+			text = "n"
+		intervals [13]:
+			xmin = 2.82
+			xmax = 2.91
+			text = "e"
+		intervals [14]:
+			xmin = 2.91
+			xmax = 2.92
+			text = "ɾ"
+		intervals [15]:
+			xmin = 2.92
+			xmax = 3.07
+			text = "s"
+		intervals [16]:
+			xmin = 3.07
+			xmax = 3.11
+			text = "u"
+		intervals [17]:
+			xmin = 3.11
+			xmax = 3.25
+			text = "m"
+		intervals [18]:
+			xmin = 3.25
+			xmax = 3.3
+			text = "v"
+		intervals [19]:
+			xmin = 3.3
+			xmax = 3.38
+			text = "o"
+		intervals [20]:
+			xmin = 3.38
+			xmax = 3.49
+			text = "t͡ʃʰ"
+		intervals [21]:
+			xmin = 3.49
+			xmax = 3.55
+			text = "v"
+		intervals [22]:
+			xmin = 3.55
+			xmax = 3.6
+			text = "o"
+		intervals [23]:
+			xmin = 3.6
+			xmax = 3.66
+			text = "kʰ"
+		intervals [24]:
+			xmin = 3.66
+			xmax = 3.71
+			text = ""
+		intervals [25]:
+			xmin = 3.71
+			xmax = 3.81
+			text = "t͡ʃʰ"
+		intervals [26]:
+			xmin = 3.81
+			xmax = 3.89
+			text = "ə"
+		intervals [27]:
+			xmin = 3.89
+			xmax = 3.93
+			text = "k"
+		intervals [28]:
+			xmin = 3.93
+			xmax = 4.04
+			text = "ɑ"
+		intervals [29]:
+			xmin = 4.04
+			xmax = 4.13
+			text = "ɾ"
+		intervals [30]:
+			xmin = 4.13
+			xmax = 6.48
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 6.48
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.48
+			text = "Բնակարանի ներսում ոչ ոք չկար:"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 6.48
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.48
+			text = "Բնակարանի ներսում ոչ ոք չկար"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 6.48
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 6.48
+			text = ""

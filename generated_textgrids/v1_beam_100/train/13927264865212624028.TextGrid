@@ -1,0 +1,374 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.12
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 9.12
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.05
+			text = ""
+		intervals [2]:
+			xmin = 2.05
+			xmax = 2.64
+			text = "ֆրանսիայի"
+		intervals [3]:
+			xmin = 2.64
+			xmax = 3.09
+			text = "ընտրական"
+		intervals [4]:
+			xmin = 3.09
+			xmax = 3.43
+			text = "օրենքը"
+		intervals [5]:
+			xmin = 3.43
+			xmax = 4.12
+			text = "բավականին"
+		intervals [6]:
+			xmin = 4.12
+			xmax = 4.27
+			text = ""
+		intervals [7]:
+			xmin = 4.27
+			xmax = 4.81
+			text = "խստորեն"
+		intervals [8]:
+			xmin = 4.81
+			xmax = 5.02
+			text = ""
+		intervals [9]:
+			xmin = 5.02
+			xmax = 5.72
+			text = "կոդավորում"
+		intervals [10]:
+			xmin = 5.72
+			xmax = 5.87
+			text = "է"
+		intervals [11]:
+			xmin = 5.87
+			xmax = 6.16
+			text = ""
+		intervals [12]:
+			xmin = 6.16
+			xmax = 6.98
+			text = "տեղեկագրերը"
+		intervals [13]:
+			xmin = 6.98
+			xmax = 9.12
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 9.12
+		intervals: size = 68
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.05
+			text = ""
+		intervals [2]:
+			xmin = 2.05
+			xmax = 2.2
+			text = "f"
+		intervals [3]:
+			xmin = 2.2
+			xmax = 2.27
+			text = "ɾ"
+		intervals [4]:
+			xmin = 2.27
+			xmax = 2.35
+			text = "ɑ"
+		intervals [5]:
+			xmin = 2.35
+			xmax = 2.36
+			text = "n"
+		intervals [6]:
+			xmin = 2.36
+			xmax = 2.49
+			text = "s"
+		intervals [7]:
+			xmin = 2.49
+			xmax = 2.52
+			text = "j"
+		intervals [8]:
+			xmin = 2.52
+			xmax = 2.55
+			text = "ɑ"
+		intervals [9]:
+			xmin = 2.55
+			xmax = 2.56
+			text = "j"
+		intervals [10]:
+			xmin = 2.56
+			xmax = 2.64
+			text = "i"
+		intervals [11]:
+			xmin = 2.64
+			xmax = 2.65
+			text = "ə"
+		intervals [12]:
+			xmin = 2.65
+			xmax = 2.72
+			text = "n"
+		intervals [13]:
+			xmin = 2.72
+			xmax = 2.82
+			text = "t"
+		intervals [14]:
+			xmin = 2.82
+			xmax = 2.85
+			text = "ɾ"
+		intervals [15]:
+			xmin = 2.85
+			xmax = 2.89
+			text = "ɑ"
+		intervals [16]:
+			xmin = 2.89
+			xmax = 2.99
+			text = "k"
+		intervals [17]:
+			xmin = 2.99
+			xmax = 3.08
+			text = "ɑ"
+		intervals [18]:
+			xmin = 3.08
+			xmax = 3.09
+			text = "n"
+		intervals [19]:
+			xmin = 3.09
+			xmax = 3.21
+			text = "o"
+		intervals [20]:
+			xmin = 3.21
+			xmax = 3.26
+			text = "ɾ"
+		intervals [21]:
+			xmin = 3.26
+			xmax = 3.32
+			text = "e"
+		intervals [22]:
+			xmin = 3.32
+			xmax = 3.34
+			text = "ŋ"
+		intervals [23]:
+			xmin = 3.34
+			xmax = 3.41
+			text = "kʰ"
+		intervals [24]:
+			xmin = 3.41
+			xmax = 3.43
+			text = "ə"
+		intervals [25]:
+			xmin = 3.43
+			xmax = 3.53
+			text = "b"
+		intervals [26]:
+			xmin = 3.53
+			xmax = 3.61
+			text = "ɑ"
+		intervals [27]:
+			xmin = 3.61
+			xmax = 3.67
+			text = "v"
+		intervals [28]:
+			xmin = 3.67
+			xmax = 3.74
+			text = "ɑ"
+		intervals [29]:
+			xmin = 3.74
+			xmax = 3.83
+			text = "k"
+		intervals [30]:
+			xmin = 3.83
+			xmax = 3.92
+			text = "ɑ"
+		intervals [31]:
+			xmin = 3.92
+			xmax = 3.93
+			text = "n"
+		intervals [32]:
+			xmin = 3.93
+			xmax = 4.03
+			text = "i"
+		intervals [33]:
+			xmin = 4.03
+			xmax = 4.12
+			text = "n"
+		intervals [34]:
+			xmin = 4.12
+			xmax = 4.27
+			text = ""
+		intervals [35]:
+			xmin = 4.27
+			xmax = 4.37
+			text = "χ"
+		intervals [36]:
+			xmin = 4.37
+			xmax = 4.39
+			text = "ə"
+		intervals [37]:
+			xmin = 4.39
+			xmax = 4.49
+			text = "s"
+		intervals [38]:
+			xmin = 4.49
+			xmax = 4.54
+			text = "t"
+		intervals [39]:
+			xmin = 4.54
+			xmax = 4.63
+			text = "o"
+		intervals [40]:
+			xmin = 4.63
+			xmax = 4.68
+			text = "ɾ"
+		intervals [41]:
+			xmin = 4.68
+			xmax = 4.76
+			text = "e"
+		intervals [42]:
+			xmin = 4.76
+			xmax = 4.81
+			text = "n"
+		intervals [43]:
+			xmin = 4.81
+			xmax = 5.02
+			text = ""
+		intervals [44]:
+			xmin = 5.02
+			xmax = 5.08
+			text = "k"
+		intervals [45]:
+			xmin = 5.08
+			xmax = 5.15
+			text = "o"
+		intervals [46]:
+			xmin = 5.15
+			xmax = 5.22
+			text = "d"
+		intervals [47]:
+			xmin = 5.22
+			xmax = 5.35
+			text = "ɑ"
+		intervals [48]:
+			xmin = 5.35
+			xmax = 5.46
+			text = "v"
+		intervals [49]:
+			xmin = 5.46
+			xmax = 5.56
+			text = "o"
+		intervals [50]:
+			xmin = 5.56
+			xmax = 5.57
+			text = "ɾ"
+		intervals [51]:
+			xmin = 5.57
+			xmax = 5.63
+			text = "u"
+		intervals [52]:
+			xmin = 5.63
+			xmax = 5.72
+			text = "m"
+		intervals [53]:
+			xmin = 5.72
+			xmax = 5.73
+			text = "j"
+		intervals [54]:
+			xmin = 5.73
+			xmax = 5.87
+			text = "e"
+		intervals [55]:
+			xmin = 5.87
+			xmax = 6.16
+			text = ""
+		intervals [56]:
+			xmin = 6.16
+			xmax = 6.22
+			text = "t"
+		intervals [57]:
+			xmin = 6.22
+			xmax = 6.26
+			text = "e"
+		intervals [58]:
+			xmin = 6.26
+			xmax = 6.32
+			text = "ʁ"
+		intervals [59]:
+			xmin = 6.32
+			xmax = 6.42
+			text = "e"
+		intervals [60]:
+			xmin = 6.42
+			xmax = 6.49
+			text = "k"
+		intervals [61]:
+			xmin = 6.49
+			xmax = 6.6
+			text = "ɑ"
+		intervals [62]:
+			xmin = 6.6
+			xmax = 6.64
+			text = "ɡ"
+		intervals [63]:
+			xmin = 6.64
+			xmax = 6.66
+			text = "ə"
+		intervals [64]:
+			xmin = 6.66
+			xmax = 6.74
+			text = "ɾ"
+		intervals [65]:
+			xmin = 6.74
+			xmax = 6.84
+			text = "e"
+		intervals [66]:
+			xmin = 6.84
+			xmax = 6.89
+			text = "ɾ"
+		intervals [67]:
+			xmin = 6.89
+			xmax = 6.98
+			text = "ə"
+		intervals [68]:
+			xmin = 6.98
+			xmax = 9.12
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 9.12
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.12
+			text = "Ֆրանսիայի ընտրական օրենքը բավականին խստորեն կոդավորում է տեղեկագրերը:"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 9.12
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.12
+			text = "Ֆրանսիայի ընտրական օրենքը բավականին խստորեն կոդավորում է տեղեկագրերը"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 9.12
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 9.12
+			text = ""

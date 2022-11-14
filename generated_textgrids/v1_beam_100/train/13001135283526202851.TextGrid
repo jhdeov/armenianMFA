@@ -1,0 +1,614 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 13.02
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 13.02
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.5
+			text = ""
+		intervals [2]:
+			xmin = 2.5
+			xmax = 2.96
+			text = "լունոն"
+		intervals [3]:
+			xmin = 2.96
+			xmax = 2.99
+			text = ""
+		intervals [4]:
+			xmin = 2.99
+			xmax = 3.31
+			text = "ուներ"
+		intervals [5]:
+			xmin = 3.31
+			xmax = 3.34
+			text = ""
+		intervals [6]:
+			xmin = 3.34
+			xmax = 3.56
+			text = "հարյուր"
+		intervals [7]:
+			xmin = 3.56
+			xmax = 4.01
+			text = "քսան"
+		intervals [8]:
+			xmin = 4.01
+			xmax = 4.21
+			text = "հարյուր"
+		intervals [9]:
+			xmin = 4.21
+			xmax = 4.62
+			text = "վաթսուն"
+		intervals [10]:
+			xmin = 4.62
+			xmax = 5.2
+			text = "խորանարդ"
+		intervals [11]:
+			xmin = 5.2
+			xmax = 5.54
+			text = "մետր"
+		intervals [12]:
+			xmin = 5.54
+			xmax = 6.47
+			text = "վառելիք"
+		intervals [13]:
+			xmin = 6.47
+			xmax = 6.51
+			text = ""
+		intervals [14]:
+			xmin = 6.51
+			xmax = 6.77
+			text = "երբ"
+		intervals [15]:
+			xmin = 6.77
+			xmax = 6.96
+			text = "այն"
+		intervals [16]:
+			xmin = 6.96
+			xmax = 7.58
+			text = "փչացավ"
+		intervals [17]:
+			xmin = 7.58
+			xmax = 7.82
+			text = ""
+		intervals [18]:
+			xmin = 7.82
+			xmax = 8.08
+			text = "իսկ"
+		intervals [19]:
+			xmin = 8.08
+			xmax = 8.36
+			text = "ուժեղ"
+		intervals [20]:
+			xmin = 8.36
+			xmax = 8.94
+			text = "քամիներն"
+		intervals [21]:
+			xmin = 8.94
+			xmax = 9.07
+			text = "ու"
+		intervals [22]:
+			xmin = 9.07
+			xmax = 9.62
+			text = "ալիքներն"
+		intervals [23]:
+			xmin = 9.62
+			xmax = 9.79
+			text = "այն"
+		intervals [24]:
+			xmin = 9.79
+			xmax = 10.05
+			text = "տարան"
+		intervals [25]:
+			xmin = 10.05
+			xmax = 10.4
+			text = "դեպի"
+		intervals [26]:
+			xmin = 10.4
+			xmax = 10.93
+			text = "ալեհատը"
+		intervals [27]:
+			xmin = 10.93
+			xmax = 13.02
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 13.02
+		intervals: size = 114
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.5
+			text = ""
+		intervals [2]:
+			xmin = 2.5
+			xmax = 2.63
+			text = "l"
+		intervals [3]:
+			xmin = 2.63
+			xmax = 2.78
+			text = "u"
+		intervals [4]:
+			xmin = 2.78
+			xmax = 2.79
+			text = "n"
+		intervals [5]:
+			xmin = 2.79
+			xmax = 2.93
+			text = "o"
+		intervals [6]:
+			xmin = 2.93
+			xmax = 2.96
+			text = "n"
+		intervals [7]:
+			xmin = 2.96
+			xmax = 2.99
+			text = ""
+		intervals [8]:
+			xmin = 2.99
+			xmax = 3.14
+			text = "u"
+		intervals [9]:
+			xmin = 3.14
+			xmax = 3.15
+			text = "n"
+		intervals [10]:
+			xmin = 3.15
+			xmax = 3.25
+			text = "e"
+		intervals [11]:
+			xmin = 3.25
+			xmax = 3.31
+			text = "ɾ"
+		intervals [12]:
+			xmin = 3.31
+			xmax = 3.34
+			text = ""
+		intervals [13]:
+			xmin = 3.34
+			xmax = 3.36
+			text = "h"
+		intervals [14]:
+			xmin = 3.36
+			xmax = 3.48
+			text = "ɑ"
+		intervals [15]:
+			xmin = 3.48
+			xmax = 3.49
+			text = "ɾ"
+		intervals [16]:
+			xmin = 3.49
+			xmax = 3.5
+			text = "j"
+		intervals [17]:
+			xmin = 3.5
+			xmax = 3.52
+			text = "u"
+		intervals [18]:
+			xmin = 3.52
+			xmax = 3.56
+			text = "ɾ"
+		intervals [19]:
+			xmin = 3.56
+			xmax = 3.62
+			text = "kʰ"
+		intervals [20]:
+			xmin = 3.62
+			xmax = 3.75
+			text = "s"
+		intervals [21]:
+			xmin = 3.75
+			xmax = 3.87
+			text = "ɑ"
+		intervals [22]:
+			xmin = 3.87
+			xmax = 4.01
+			text = "n"
+		intervals [23]:
+			xmin = 4.01
+			xmax = 4.03
+			text = "h"
+		intervals [24]:
+			xmin = 4.03
+			xmax = 4.16
+			text = "ɑ"
+		intervals [25]:
+			xmin = 4.16
+			xmax = 4.17
+			text = "ɾ"
+		intervals [26]:
+			xmin = 4.17
+			xmax = 4.18
+			text = "j"
+		intervals [27]:
+			xmin = 4.18
+			xmax = 4.2
+			text = "u"
+		intervals [28]:
+			xmin = 4.2
+			xmax = 4.21
+			text = "ɾ"
+		intervals [29]:
+			xmin = 4.21
+			xmax = 4.3
+			text = "v"
+		intervals [30]:
+			xmin = 4.3
+			xmax = 4.38
+			text = "ɑ"
+		intervals [31]:
+			xmin = 4.38
+			xmax = 4.46
+			text = "tʰ"
+		intervals [32]:
+			xmin = 4.46
+			xmax = 4.54
+			text = "s"
+		intervals [33]:
+			xmin = 4.54
+			xmax = 4.59
+			text = "u"
+		intervals [34]:
+			xmin = 4.59
+			xmax = 4.62
+			text = "n"
+		intervals [35]:
+			xmin = 4.62
+			xmax = 4.78
+			text = "χ"
+		intervals [36]:
+			xmin = 4.78
+			xmax = 4.85
+			text = "o"
+		intervals [37]:
+			xmin = 4.85
+			xmax = 4.86
+			text = "ɾ"
+		intervals [38]:
+			xmin = 4.86
+			xmax = 4.99
+			text = "ɑ"
+		intervals [39]:
+			xmin = 4.99
+			xmax = 5.0
+			text = "n"
+		intervals [40]:
+			xmin = 5.0
+			xmax = 5.09
+			text = "ɑ"
+		intervals [41]:
+			xmin = 5.09
+			xmax = 5.1
+			text = "ɾ"
+		intervals [42]:
+			xmin = 5.1
+			xmax = 5.2
+			text = "tʰ"
+		intervals [43]:
+			xmin = 5.2
+			xmax = 5.28
+			text = "m"
+		intervals [44]:
+			xmin = 5.28
+			xmax = 5.35
+			text = "e"
+		intervals [45]:
+			xmin = 5.35
+			xmax = 5.43
+			text = "t"
+		intervals [46]:
+			xmin = 5.43
+			xmax = 5.45
+			text = "ə"
+		intervals [47]:
+			xmin = 5.45
+			xmax = 5.54
+			text = "ɾ"
+		intervals [48]:
+			xmin = 5.54
+			xmax = 5.62
+			text = "v"
+		intervals [49]:
+			xmin = 5.62
+			xmax = 5.73
+			text = "ɑ"
+		intervals [50]:
+			xmin = 5.73
+			xmax = 5.79
+			text = "r"
+		intervals [51]:
+			xmin = 5.79
+			xmax = 5.91
+			text = "e"
+		intervals [52]:
+			xmin = 5.91
+			xmax = 5.93
+			text = "l"
+		intervals [53]:
+			xmin = 5.93
+			xmax = 6.07
+			text = "i"
+		intervals [54]:
+			xmin = 6.07
+			xmax = 6.47
+			text = "kʰ"
+		intervals [55]:
+			xmin = 6.47
+			xmax = 6.51
+			text = ""
+		intervals [56]:
+			xmin = 6.51
+			xmax = 6.63
+			text = "j"
+		intervals [57]:
+			xmin = 6.63
+			xmax = 6.67
+			text = "e"
+		intervals [58]:
+			xmin = 6.67
+			xmax = 6.68
+			text = "ɾ"
+		intervals [59]:
+			xmin = 6.68
+			xmax = 6.77
+			text = "pʰ"
+		intervals [60]:
+			xmin = 6.77
+			xmax = 6.83
+			text = "ɑ"
+		intervals [61]:
+			xmin = 6.83
+			xmax = 6.9
+			text = "j"
+		intervals [62]:
+			xmin = 6.9
+			xmax = 6.96
+			text = "n"
+		intervals [63]:
+			xmin = 6.96
+			xmax = 7.03
+			text = "pʰ"
+		intervals [64]:
+			xmin = 7.03
+			xmax = 7.05
+			text = "ə"
+		intervals [65]:
+			xmin = 7.05
+			xmax = 7.18
+			text = "t͡ʃʰ"
+		intervals [66]:
+			xmin = 7.18
+			xmax = 7.25
+			text = "ɑ"
+		intervals [67]:
+			xmin = 7.25
+			xmax = 7.38
+			text = "t͡sʰ"
+		intervals [68]:
+			xmin = 7.38
+			xmax = 7.44
+			text = "ɑ"
+		intervals [69]:
+			xmin = 7.44
+			xmax = 7.58
+			text = "v"
+		intervals [70]:
+			xmin = 7.58
+			xmax = 7.82
+			text = ""
+		intervals [71]:
+			xmin = 7.82
+			xmax = 7.92
+			text = "i"
+		intervals [72]:
+			xmin = 7.92
+			xmax = 8.01
+			text = "s"
+		intervals [73]:
+			xmin = 8.01
+			xmax = 8.08
+			text = "k"
+		intervals [74]:
+			xmin = 8.08
+			xmax = 8.14
+			text = "u"
+		intervals [75]:
+			xmin = 8.14
+			xmax = 8.21
+			text = "ʒ"
+		intervals [76]:
+			xmin = 8.21
+			xmax = 8.28
+			text = "e"
+		intervals [77]:
+			xmin = 8.28
+			xmax = 8.36
+			text = "ʁ"
+		intervals [78]:
+			xmin = 8.36
+			xmax = 8.47
+			text = "kʰ"
+		intervals [79]:
+			xmin = 8.47
+			xmax = 8.52
+			text = "ɑ"
+		intervals [80]:
+			xmin = 8.52
+			xmax = 8.63
+			text = "m"
+		intervals [81]:
+			xmin = 8.63
+			xmax = 8.74
+			text = "i"
+		intervals [82]:
+			xmin = 8.74
+			xmax = 8.75
+			text = "n"
+		intervals [83]:
+			xmin = 8.75
+			xmax = 8.87
+			text = "e"
+		intervals [84]:
+			xmin = 8.87
+			xmax = 8.88
+			text = "ɾ"
+		intervals [85]:
+			xmin = 8.88
+			xmax = 8.94
+			text = "n"
+		intervals [86]:
+			xmin = 8.94
+			xmax = 9.07
+			text = "u"
+		intervals [87]:
+			xmin = 9.07
+			xmax = 9.21
+			text = "ɑ"
+		intervals [88]:
+			xmin = 9.21
+			xmax = 9.23
+			text = "l"
+		intervals [89]:
+			xmin = 9.23
+			xmax = 9.3
+			text = "i"
+		intervals [90]:
+			xmin = 9.3
+			xmax = 9.43
+			text = "kʰ"
+		intervals [91]:
+			xmin = 9.43
+			xmax = 9.46
+			text = "n"
+		intervals [92]:
+			xmin = 9.46
+			xmax = 9.54
+			text = "e"
+		intervals [93]:
+			xmin = 9.54
+			xmax = 9.55
+			text = "ɾ"
+		intervals [94]:
+			xmin = 9.55
+			xmax = 9.62
+			text = "n"
+		intervals [95]:
+			xmin = 9.62
+			xmax = 9.68
+			text = "ɑ"
+		intervals [96]:
+			xmin = 9.68
+			xmax = 9.75
+			text = "j"
+		intervals [97]:
+			xmin = 9.75
+			xmax = 9.79
+			text = "n"
+		intervals [98]:
+			xmin = 9.79
+			xmax = 9.86
+			text = "t"
+		intervals [99]:
+			xmin = 9.86
+			xmax = 9.91
+			text = "ɑ"
+		intervals [100]:
+			xmin = 9.91
+			xmax = 9.92
+			text = "ɾ"
+		intervals [101]:
+			xmin = 9.92
+			xmax = 10.04
+			text = "ɑ"
+		intervals [102]:
+			xmin = 10.04
+			xmax = 10.05
+			text = "n"
+		intervals [103]:
+			xmin = 10.05
+			xmax = 10.15
+			text = "d"
+		intervals [104]:
+			xmin = 10.15
+			xmax = 10.29
+			text = "e"
+		intervals [105]:
+			xmin = 10.29
+			xmax = 10.31
+			text = "p"
+		intervals [106]:
+			xmin = 10.31
+			xmax = 10.4
+			text = "i"
+		intervals [107]:
+			xmin = 10.4
+			xmax = 10.56
+			text = "ɑ"
+		intervals [108]:
+			xmin = 10.56
+			xmax = 10.58
+			text = "l"
+		intervals [109]:
+			xmin = 10.58
+			xmax = 10.71
+			text = "e"
+		intervals [110]:
+			xmin = 10.71
+			xmax = 10.73
+			text = "h"
+		intervals [111]:
+			xmin = 10.73
+			xmax = 10.8
+			text = "ɑ"
+		intervals [112]:
+			xmin = 10.8
+			xmax = 10.91
+			text = "t"
+		intervals [113]:
+			xmin = 10.91
+			xmax = 10.93
+			text = "ə"
+		intervals [114]:
+			xmin = 10.93
+			xmax = 13.02
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 13.02
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.02
+			text = "Լունոն ուներ 120 - 160 խորանարդ մետր վառելիք, երբ այն փչացավ, իսկ ուժեղ քամիներն ու ալիքներն այն տարան դեպի ալեհատը։"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 13.02
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.02
+			text = "Լունոն ուներ հարյուր քսան հարյուր վաթսուն խորանարդ մետր վառելիք երբ այն փչացավ իսկ ուժեղ քամիներն ու ալիքներն այն տարան դեպի ալեհատը"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 13.02
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.02
+			text = ""

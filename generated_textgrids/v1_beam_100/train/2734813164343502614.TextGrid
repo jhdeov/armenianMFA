@@ -1,0 +1,334 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.58
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 8.58
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = ""
+		intervals [2]:
+			xmin = 0.83
+			xmax = 1.26
+			text = "միջուկը"
+		intervals [3]:
+			xmin = 1.26
+			xmax = 2.02
+			text = "բաղկացած"
+		intervals [4]:
+			xmin = 2.02
+			xmax = 2.07
+			text = "է"
+		intervals [5]:
+			xmin = 2.07
+			xmax = 2.66
+			text = "երկու"
+		intervals [6]:
+			xmin = 2.66
+			xmax = 2.97
+			text = ""
+		intervals [7]:
+			xmin = 2.97
+			xmax = 3.92
+			text = "մասնիկներից"
+		intervals [8]:
+			xmin = 3.92
+			xmax = 4.15
+			text = ""
+		intervals [9]:
+			xmin = 4.15
+			xmax = 5.34
+			text = "նեյտրոններ"
+		intervals [10]:
+			xmin = 5.34
+			xmax = 5.41
+			text = ""
+		intervals [11]:
+			xmin = 5.41
+			xmax = 5.71
+			text = "և"
+		intervals [12]:
+			xmin = 5.71
+			xmax = 5.81
+			text = ""
+		intervals [13]:
+			xmin = 5.81
+			xmax = 6.93
+			text = "պրոտոններ"
+		intervals [14]:
+			xmin = 6.93
+			xmax = 8.58
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 8.58
+		intervals: size = 57
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.83
+			text = ""
+		intervals [2]:
+			xmin = 0.83
+			xmax = 0.88
+			text = "m"
+		intervals [3]:
+			xmin = 0.88
+			xmax = 0.96
+			text = "i"
+		intervals [4]:
+			xmin = 0.96
+			xmax = 1.07
+			text = "t͡ʃ"
+		intervals [5]:
+			xmin = 1.07
+			xmax = 1.16
+			text = "u"
+		intervals [6]:
+			xmin = 1.16
+			xmax = 1.24
+			text = "k"
+		intervals [7]:
+			xmin = 1.24
+			xmax = 1.26
+			text = "ə"
+		intervals [8]:
+			xmin = 1.26
+			xmax = 1.37
+			text = "b"
+		intervals [9]:
+			xmin = 1.37
+			xmax = 1.47
+			text = "ɑ"
+		intervals [10]:
+			xmin = 1.47
+			xmax = 1.58
+			text = "χ"
+		intervals [11]:
+			xmin = 1.58
+			xmax = 1.64
+			text = "k"
+		intervals [12]:
+			xmin = 1.64
+			xmax = 1.7
+			text = "ɑ"
+		intervals [13]:
+			xmin = 1.7
+			xmax = 1.85
+			text = "t͡sʰ"
+		intervals [14]:
+			xmin = 1.85
+			xmax = 1.9
+			text = "ɑ"
+		intervals [15]:
+			xmin = 1.9
+			xmax = 2.02
+			text = "t͡s"
+		intervals [16]:
+			xmin = 2.02
+			xmax = 2.07
+			text = "e"
+		intervals [17]:
+			xmin = 2.07
+			xmax = 2.14
+			text = "j"
+		intervals [18]:
+			xmin = 2.14
+			xmax = 2.27
+			text = "e"
+		intervals [19]:
+			xmin = 2.27
+			xmax = 2.28
+			text = "ɾ"
+		intervals [20]:
+			xmin = 2.28
+			xmax = 2.44
+			text = "k"
+		intervals [21]:
+			xmin = 2.44
+			xmax = 2.66
+			text = "u"
+		intervals [22]:
+			xmin = 2.66
+			xmax = 2.97
+			text = ""
+		intervals [23]:
+			xmin = 2.97
+			xmax = 3.01
+			text = "m"
+		intervals [24]:
+			xmin = 3.01
+			xmax = 3.1
+			text = "ɑ"
+		intervals [25]:
+			xmin = 3.1
+			xmax = 3.25
+			text = "s"
+		intervals [26]:
+			xmin = 3.25
+			xmax = 3.28
+			text = "n"
+		intervals [27]:
+			xmin = 3.28
+			xmax = 3.34
+			text = "i"
+		intervals [28]:
+			xmin = 3.34
+			xmax = 3.45
+			text = "k"
+		intervals [29]:
+			xmin = 3.45
+			xmax = 3.49
+			text = "n"
+		intervals [30]:
+			xmin = 3.49
+			xmax = 3.68
+			text = "e"
+		intervals [31]:
+			xmin = 3.68
+			xmax = 3.69
+			text = "ɾ"
+		intervals [32]:
+			xmin = 3.69
+			xmax = 3.73
+			text = "i"
+		intervals [33]:
+			xmin = 3.73
+			xmax = 3.92
+			text = "t͡sʰ"
+		intervals [34]:
+			xmin = 3.92
+			xmax = 4.15
+			text = ""
+		intervals [35]:
+			xmin = 4.15
+			xmax = 4.27
+			text = "n"
+		intervals [36]:
+			xmin = 4.27
+			xmax = 4.31
+			text = "e"
+		intervals [37]:
+			xmin = 4.31
+			xmax = 4.47
+			text = "j"
+		intervals [38]:
+			xmin = 4.47
+			xmax = 4.63
+			text = "t"
+		intervals [39]:
+			xmin = 4.63
+			xmax = 4.64
+			text = "ɾ"
+		intervals [40]:
+			xmin = 4.64
+			xmax = 4.79
+			text = "o"
+		intervals [41]:
+			xmin = 4.79
+			xmax = 4.96
+			text = "nː"
+		intervals [42]:
+			xmin = 4.96
+			xmax = 5.15
+			text = "e"
+		intervals [43]:
+			xmin = 5.15
+			xmax = 5.34
+			text = "ɾ"
+		intervals [44]:
+			xmin = 5.34
+			xmax = 5.41
+			text = ""
+		intervals [45]:
+			xmin = 5.41
+			xmax = 5.53
+			text = "j"
+		intervals [46]:
+			xmin = 5.53
+			xmax = 5.65
+			text = "e"
+		intervals [47]:
+			xmin = 5.65
+			xmax = 5.71
+			text = "v"
+		intervals [48]:
+			xmin = 5.71
+			xmax = 5.81
+			text = ""
+		intervals [49]:
+			xmin = 5.81
+			xmax = 6.15
+			text = "p"
+		intervals [50]:
+			xmin = 6.15
+			xmax = 6.16
+			text = "ɾ"
+		intervals [51]:
+			xmin = 6.16
+			xmax = 6.3
+			text = "o"
+		intervals [52]:
+			xmin = 6.3
+			xmax = 6.41
+			text = "t"
+		intervals [53]:
+			xmin = 6.41
+			xmax = 6.51
+			text = "o"
+		intervals [54]:
+			xmin = 6.51
+			xmax = 6.64
+			text = "nː"
+		intervals [55]:
+			xmin = 6.64
+			xmax = 6.8
+			text = "e"
+		intervals [56]:
+			xmin = 6.8
+			xmax = 6.93
+			text = "ɾ"
+		intervals [57]:
+			xmin = 6.93
+			xmax = 8.58
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 8.58
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.58
+			text = "Միջուկը բաղկացած է երկու մասնիկներից` նեյտրոններ և պրոտոններ:"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 8.58
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.58
+			text = "Միջուկը բաղկացած է երկու մասնիկներից նեյտրոններ և պրոտոններ"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 8.58
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.58
+			text = ""

@@ -1,0 +1,614 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 11.88
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 11.88
+		intervals: size = 20
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.71
+			text = ""
+		intervals [2]:
+			xmin = 1.71
+			xmax = 2.01
+			text = "ուժի"
+		intervals [3]:
+			xmin = 2.01
+			xmax = 3.03
+			text = "հավասարակշռումը"
+		intervals [4]:
+			xmin = 3.03
+			xmax = 3.69
+			text = "համակարգ"
+		intervals [5]:
+			xmin = 3.69
+			xmax = 3.93
+			text = "էր"
+		intervals [6]:
+			xmin = 3.93
+			xmax = 3.96
+			text = ""
+		intervals [7]:
+			xmin = 3.96
+			xmax = 4.36
+			text = "որում"
+		intervals [8]:
+			xmin = 4.36
+			xmax = 5.07
+			text = "եվրոպական"
+		intervals [9]:
+			xmin = 5.07
+			xmax = 5.56
+			text = "ազգերը"
+		intervals [10]:
+			xmin = 5.56
+			xmax = 6.13
+			text = "ցանկանում"
+		intervals [11]:
+			xmin = 6.13
+			xmax = 6.31
+			text = "էին"
+		intervals [12]:
+			xmin = 6.31
+			xmax = 6.82
+			text = "պահպանել"
+		intervals [13]:
+			xmin = 6.82
+			xmax = 7.23
+			text = "բոլոր"
+		intervals [14]:
+			xmin = 7.23
+			xmax = 7.95
+			text = "եվրոպական"
+		intervals [15]:
+			xmin = 7.95
+			xmax = 8.77
+			text = "պետությունների"
+		intervals [16]:
+			xmin = 8.77
+			xmax = 8.83
+			text = ""
+		intervals [17]:
+			xmin = 8.83
+			xmax = 9.29
+			text = "ազգային"
+		intervals [18]:
+			xmin = 9.29
+			xmax = 9.32
+			text = ""
+		intervals [19]:
+			xmin = 9.32
+			xmax = 10.27
+			text = "ինքնիշխանությունը"
+		intervals [20]:
+			xmin = 10.27
+			xmax = 11.88
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 11.88
+		intervals: size = 121
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.71
+			text = ""
+		intervals [2]:
+			xmin = 1.71
+			xmax = 1.81
+			text = "u"
+		intervals [3]:
+			xmin = 1.81
+			xmax = 1.9
+			text = "ʒ"
+		intervals [4]:
+			xmin = 1.9
+			xmax = 2.01
+			text = "i"
+		intervals [5]:
+			xmin = 2.01
+			xmax = 2.03
+			text = "h"
+		intervals [6]:
+			xmin = 2.03
+			xmax = 2.11
+			text = "ɑ"
+		intervals [7]:
+			xmin = 2.11
+			xmax = 2.15
+			text = "v"
+		intervals [8]:
+			xmin = 2.15
+			xmax = 2.23
+			text = "ɑ"
+		intervals [9]:
+			xmin = 2.23
+			xmax = 2.33
+			text = "s"
+		intervals [10]:
+			xmin = 2.33
+			xmax = 2.36
+			text = "ɑ"
+		intervals [11]:
+			xmin = 2.36
+			xmax = 2.45
+			text = "ɾ"
+		intervals [12]:
+			xmin = 2.45
+			xmax = 2.48
+			text = "ɑ"
+		intervals [13]:
+			xmin = 2.48
+			xmax = 2.6
+			text = "k"
+		intervals [14]:
+			xmin = 2.6
+			xmax = 2.62
+			text = "ə"
+		intervals [15]:
+			xmin = 2.62
+			xmax = 2.78
+			text = "ʃ"
+		intervals [16]:
+			xmin = 2.78
+			xmax = 2.83
+			text = "r"
+		intervals [17]:
+			xmin = 2.83
+			xmax = 2.9
+			text = "u"
+		intervals [18]:
+			xmin = 2.9
+			xmax = 3.01
+			text = "m"
+		intervals [19]:
+			xmin = 3.01
+			xmax = 3.03
+			text = "ə"
+		intervals [20]:
+			xmin = 3.03
+			xmax = 3.07
+			text = "h"
+		intervals [21]:
+			xmin = 3.07
+			xmax = 3.13
+			text = "ɑ"
+		intervals [22]:
+			xmin = 3.13
+			xmax = 3.22
+			text = "m"
+		intervals [23]:
+			xmin = 3.22
+			xmax = 3.29
+			text = "ɑ"
+		intervals [24]:
+			xmin = 3.29
+			xmax = 3.4
+			text = "k"
+		intervals [25]:
+			xmin = 3.4
+			xmax = 3.43
+			text = "ɑ"
+		intervals [26]:
+			xmin = 3.43
+			xmax = 3.59
+			text = "ɾ"
+		intervals [27]:
+			xmin = 3.59
+			xmax = 3.69
+			text = "kʰ"
+		intervals [28]:
+			xmin = 3.69
+			xmax = 3.78
+			text = "e"
+		intervals [29]:
+			xmin = 3.78
+			xmax = 3.93
+			text = "ɾ"
+		intervals [30]:
+			xmin = 3.93
+			xmax = 3.96
+			text = ""
+		intervals [31]:
+			xmin = 3.96
+			xmax = 4.07
+			text = "v"
+		intervals [32]:
+			xmin = 4.07
+			xmax = 4.18
+			text = "o"
+		intervals [33]:
+			xmin = 4.18
+			xmax = 4.19
+			text = "ɾ"
+		intervals [34]:
+			xmin = 4.19
+			xmax = 4.28
+			text = "u"
+		intervals [35]:
+			xmin = 4.28
+			xmax = 4.36
+			text = "m"
+		intervals [36]:
+			xmin = 4.36
+			xmax = 4.42
+			text = "j"
+		intervals [37]:
+			xmin = 4.42
+			xmax = 4.49
+			text = "e"
+		intervals [38]:
+			xmin = 4.49
+			xmax = 4.58
+			text = "v"
+		intervals [39]:
+			xmin = 4.58
+			xmax = 4.59
+			text = "ɾ"
+		intervals [40]:
+			xmin = 4.59
+			xmax = 4.71
+			text = "o"
+		intervals [41]:
+			xmin = 4.71
+			xmax = 4.73
+			text = "p"
+		intervals [42]:
+			xmin = 4.73
+			xmax = 4.83
+			text = "ɑ"
+		intervals [43]:
+			xmin = 4.83
+			xmax = 4.92
+			text = "k"
+		intervals [44]:
+			xmin = 4.92
+			xmax = 4.96
+			text = "ɑ"
+		intervals [45]:
+			xmin = 4.96
+			xmax = 5.07
+			text = "n"
+		intervals [46]:
+			xmin = 5.07
+			xmax = 5.16
+			text = "ɑ"
+		intervals [47]:
+			xmin = 5.16
+			xmax = 5.28
+			text = "z"
+		intervals [48]:
+			xmin = 5.28
+			xmax = 5.35
+			text = "ɡ"
+		intervals [49]:
+			xmin = 5.35
+			xmax = 5.47
+			text = "e"
+		intervals [50]:
+			xmin = 5.47
+			xmax = 5.54
+			text = "ɾ"
+		intervals [51]:
+			xmin = 5.54
+			xmax = 5.56
+			text = "ə"
+		intervals [52]:
+			xmin = 5.56
+			xmax = 5.67
+			text = "t͡sʰ"
+		intervals [53]:
+			xmin = 5.67
+			xmax = 5.76
+			text = "ɑ"
+		intervals [54]:
+			xmin = 5.76
+			xmax = 5.78
+			text = "ŋ"
+		intervals [55]:
+			xmin = 5.78
+			xmax = 5.85
+			text = "k"
+		intervals [56]:
+			xmin = 5.85
+			xmax = 5.91
+			text = "ɑ"
+		intervals [57]:
+			xmin = 5.91
+			xmax = 6.01
+			text = "n"
+		intervals [58]:
+			xmin = 6.01
+			xmax = 6.06
+			text = "u"
+		intervals [59]:
+			xmin = 6.06
+			xmax = 6.13
+			text = "m"
+		intervals [60]:
+			xmin = 6.13
+			xmax = 6.17
+			text = "e"
+		intervals [61]:
+			xmin = 6.17
+			xmax = 6.2
+			text = "i"
+		intervals [62]:
+			xmin = 6.2
+			xmax = 6.31
+			text = "n"
+		intervals [63]:
+			xmin = 6.31
+			xmax = 6.33
+			text = "p"
+		intervals [64]:
+			xmin = 6.33
+			xmax = 6.49
+			text = "ɑ"
+		intervals [65]:
+			xmin = 6.49
+			xmax = 6.51
+			text = "h"
+		intervals [66]:
+			xmin = 6.51
+			xmax = 6.53
+			text = "p"
+		intervals [67]:
+			xmin = 6.53
+			xmax = 6.59
+			text = "ɑ"
+		intervals [68]:
+			xmin = 6.59
+			xmax = 6.69
+			text = "n"
+		intervals [69]:
+			xmin = 6.69
+			xmax = 6.8
+			text = "e"
+		intervals [70]:
+			xmin = 6.8
+			xmax = 6.82
+			text = "l"
+		intervals [71]:
+			xmin = 6.82
+			xmax = 6.98
+			text = "b"
+		intervals [72]:
+			xmin = 6.98
+			xmax = 7.09
+			text = "o"
+		intervals [73]:
+			xmin = 7.09
+			xmax = 7.11
+			text = "l"
+		intervals [74]:
+			xmin = 7.11
+			xmax = 7.22
+			text = "o"
+		intervals [75]:
+			xmin = 7.22
+			xmax = 7.23
+			text = "ɾ"
+		intervals [76]:
+			xmin = 7.23
+			xmax = 7.3
+			text = "j"
+		intervals [77]:
+			xmin = 7.3
+			xmax = 7.38
+			text = "e"
+		intervals [78]:
+			xmin = 7.38
+			xmax = 7.47
+			text = "v"
+		intervals [79]:
+			xmin = 7.47
+			xmax = 7.48
+			text = "ɾ"
+		intervals [80]:
+			xmin = 7.48
+			xmax = 7.59
+			text = "o"
+		intervals [81]:
+			xmin = 7.59
+			xmax = 7.61
+			text = "p"
+		intervals [82]:
+			xmin = 7.61
+			xmax = 7.7
+			text = "ɑ"
+		intervals [83]:
+			xmin = 7.7
+			xmax = 7.81
+			text = "k"
+		intervals [84]:
+			xmin = 7.81
+			xmax = 7.84
+			text = "ɑ"
+		intervals [85]:
+			xmin = 7.84
+			xmax = 7.95
+			text = "n"
+		intervals [86]:
+			xmin = 7.95
+			xmax = 7.97
+			text = "p"
+		intervals [87]:
+			xmin = 7.97
+			xmax = 8.03
+			text = "e"
+		intervals [88]:
+			xmin = 8.03
+			xmax = 8.13
+			text = "t"
+		intervals [89]:
+			xmin = 8.13
+			xmax = 8.16
+			text = "u"
+		intervals [90]:
+			xmin = 8.16
+			xmax = 8.31
+			text = "tʰ"
+		intervals [91]:
+			xmin = 8.31
+			xmax = 8.32
+			text = "j"
+		intervals [92]:
+			xmin = 8.32
+			xmax = 8.35
+			text = "u"
+		intervals [93]:
+			xmin = 8.35
+			xmax = 8.47
+			text = "nː"
+		intervals [94]:
+			xmin = 8.47
+			xmax = 8.57
+			text = "e"
+		intervals [95]:
+			xmin = 8.57
+			xmax = 8.58
+			text = "ɾ"
+		intervals [96]:
+			xmin = 8.58
+			xmax = 8.77
+			text = "i"
+		intervals [97]:
+			xmin = 8.77
+			xmax = 8.83
+			text = ""
+		intervals [98]:
+			xmin = 8.83
+			xmax = 8.91
+			text = "ɑ"
+		intervals [99]:
+			xmin = 8.91
+			xmax = 9.07
+			text = "z"
+		intervals [100]:
+			xmin = 9.07
+			xmax = 9.08
+			text = "ɡ"
+		intervals [101]:
+			xmin = 9.08
+			xmax = 9.11
+			text = "ɑ"
+		intervals [102]:
+			xmin = 9.11
+			xmax = 9.12
+			text = "j"
+		intervals [103]:
+			xmin = 9.12
+			xmax = 9.2
+			text = "i"
+		intervals [104]:
+			xmin = 9.2
+			xmax = 9.29
+			text = "n"
+		intervals [105]:
+			xmin = 9.29
+			xmax = 9.32
+			text = ""
+		intervals [106]:
+			xmin = 9.32
+			xmax = 9.4
+			text = "i"
+		intervals [107]:
+			xmin = 9.4
+			xmax = 9.42
+			text = "ŋ"
+		intervals [108]:
+			xmin = 9.42
+			xmax = 9.55
+			text = "kʰ"
+		intervals [109]:
+			xmin = 9.55
+			xmax = 9.56
+			text = "n"
+		intervals [110]:
+			xmin = 9.56
+			xmax = 9.59
+			text = "i"
+		intervals [111]:
+			xmin = 9.59
+			xmax = 9.66
+			text = "ʃ"
+		intervals [112]:
+			xmin = 9.66
+			xmax = 9.74
+			text = "χ"
+		intervals [113]:
+			xmin = 9.74
+			xmax = 9.81
+			text = "ɑ"
+		intervals [114]:
+			xmin = 9.81
+			xmax = 9.82
+			text = "n"
+		intervals [115]:
+			xmin = 9.82
+			xmax = 9.9
+			text = "u"
+		intervals [116]:
+			xmin = 9.9
+			xmax = 10.08
+			text = "tʰ"
+		intervals [117]:
+			xmin = 10.08
+			xmax = 10.09
+			text = "j"
+		intervals [118]:
+			xmin = 10.09
+			xmax = 10.19
+			text = "u"
+		intervals [119]:
+			xmin = 10.19
+			xmax = 10.22
+			text = "n"
+		intervals [120]:
+			xmin = 10.22
+			xmax = 10.27
+			text = "ə"
+		intervals [121]:
+			xmin = 10.27
+			xmax = 11.88
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 11.88
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.88
+			text = "Ուժի հավասարակշռումը համակարգ էր, որում եվրոպական ազգերը ցանկանում էին պահպանել բոլոր եվրոպական պետությունների ազգային ինքնիշխանությունը:"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 11.88
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.88
+			text = "Ուժի հավասարակշռումը համակարգ էր որում եվրոպական ազգերը ցանկանում էին պահպանել բոլոր եվրոպական պետությունների ազգային ինքնիշխանությունը"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 11.88
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.88
+			text = ""

@@ -1,0 +1,506 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.04
+tiers? <exists>
+size = 5
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 8.04
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.34
+			text = ""
+		intervals [2]:
+			xmin = 0.34
+			xmax = 0.87
+			text = "բալենու"
+		intervals [3]:
+			xmin = 0.87
+			xmax = 1.39
+			text = "ծաղկման"
+		intervals [4]:
+			xmin = 1.39
+			xmax = 1.82
+			text = "դիտումը"
+		intervals [5]:
+			xmin = 1.82
+			xmax = 2.09
+			text = "որը"
+		intervals [6]:
+			xmin = 2.09
+			xmax = 2.5
+			text = "հայտնի"
+		intervals [7]:
+			xmin = 2.5
+			xmax = 2.56
+			text = "է"
+		intervals [8]:
+			xmin = 2.56
+			xmax = 3.25
+			text = "որպես"
+		intervals [9]:
+			xmin = 3.25
+			xmax = 3.66
+			text = ""
+		intervals [10]:
+			xmin = 3.66
+			xmax = 4.36
+			text = "հանամի"
+		intervals [11]:
+			xmin = 4.36
+			xmax = 5.1
+			text = "ճապոնական"
+		intervals [12]:
+			xmin = 5.1
+			xmax = 5.73
+			text = "մշակույթի"
+		intervals [13]:
+			xmin = 5.73
+			xmax = 5.76
+			text = ""
+		intervals [14]:
+			xmin = 5.76
+			xmax = 6.11
+			text = "մասն"
+		intervals [15]:
+			xmin = 6.11
+			xmax = 6.12
+			text = "է"
+		intervals [16]:
+			xmin = 6.12
+			xmax = 6.39
+			text = "եղել"
+		intervals [17]:
+			xmin = 6.39
+			xmax = 6.84
+			text = "ութերորդ"
+		intervals [18]:
+			xmin = 6.84
+			xmax = 6.88
+			text = ""
+		intervals [19]:
+			xmin = 6.88
+			xmax = 7.23
+			text = "դարից"
+		intervals [20]:
+			xmin = 7.23
+			xmax = 7.8
+			text = "սկսած"
+		intervals [21]:
+			xmin = 7.8
+			xmax = 8.04
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 8.04
+		intervals: size = 93
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.34
+			text = ""
+		intervals [2]:
+			xmin = 0.34
+			xmax = 0.47
+			text = "b"
+		intervals [3]:
+			xmin = 0.47
+			xmax = 0.65
+			text = "ɑ"
+		intervals [4]:
+			xmin = 0.65
+			xmax = 0.67
+			text = "l"
+		intervals [5]:
+			xmin = 0.67
+			xmax = 0.77
+			text = "e"
+		intervals [6]:
+			xmin = 0.77
+			xmax = 0.8
+			text = "n"
+		intervals [7]:
+			xmin = 0.8
+			xmax = 0.87
+			text = "u"
+		intervals [8]:
+			xmin = 0.87
+			xmax = 0.97
+			text = "t͡s"
+		intervals [9]:
+			xmin = 0.97
+			xmax = 1.09
+			text = "ɑ"
+		intervals [10]:
+			xmin = 1.09
+			xmax = 1.18
+			text = "χ"
+		intervals [11]:
+			xmin = 1.18
+			xmax = 1.24
+			text = "k"
+		intervals [12]:
+			xmin = 1.24
+			xmax = 1.29
+			text = "m"
+		intervals [13]:
+			xmin = 1.29
+			xmax = 1.38
+			text = "ɑ"
+		intervals [14]:
+			xmin = 1.38
+			xmax = 1.39
+			text = "n"
+		intervals [15]:
+			xmin = 1.39
+			xmax = 1.48
+			text = "d"
+		intervals [16]:
+			xmin = 1.48
+			xmax = 1.58
+			text = "i"
+		intervals [17]:
+			xmin = 1.58
+			xmax = 1.66
+			text = "t"
+		intervals [18]:
+			xmin = 1.66
+			xmax = 1.72
+			text = "u"
+		intervals [19]:
+			xmin = 1.72
+			xmax = 1.8
+			text = "m"
+		intervals [20]:
+			xmin = 1.8
+			xmax = 1.82
+			text = "ə"
+		intervals [21]:
+			xmin = 1.82
+			xmax = 1.92
+			text = "v"
+		intervals [22]:
+			xmin = 1.92
+			xmax = 2.03
+			text = "o"
+		intervals [23]:
+			xmin = 2.03
+			xmax = 2.07
+			text = "ɾ"
+		intervals [24]:
+			xmin = 2.07
+			xmax = 2.09
+			text = "ə"
+		intervals [25]:
+			xmin = 2.09
+			xmax = 2.17
+			text = "h"
+		intervals [26]:
+			xmin = 2.17
+			xmax = 2.27
+			text = "ɑ"
+		intervals [27]:
+			xmin = 2.27
+			xmax = 2.33
+			text = "j"
+		intervals [28]:
+			xmin = 2.33
+			xmax = 2.42
+			text = "t"
+		intervals [29]:
+			xmin = 2.42
+			xmax = 2.43
+			text = "n"
+		intervals [30]:
+			xmin = 2.43
+			xmax = 2.5
+			text = "i"
+		intervals [31]:
+			xmin = 2.5
+			xmax = 2.56
+			text = "e"
+		intervals [32]:
+			xmin = 2.56
+			xmax = 2.6
+			text = "v"
+		intervals [33]:
+			xmin = 2.6
+			xmax = 2.69
+			text = "o"
+		intervals [34]:
+			xmin = 2.69
+			xmax = 2.8
+			text = "ɾ"
+		intervals [35]:
+			xmin = 2.8
+			xmax = 2.82
+			text = "p"
+		intervals [36]:
+			xmin = 2.82
+			xmax = 2.92
+			text = "e"
+		intervals [37]:
+			xmin = 2.92
+			xmax = 3.25
+			text = "s"
+		intervals [38]:
+			xmin = 3.25
+			xmax = 3.66
+			text = ""
+		intervals [39]:
+			xmin = 3.66
+			xmax = 3.68
+			text = "h"
+		intervals [40]:
+			xmin = 3.68
+			xmax = 3.98
+			text = "ɑ"
+		intervals [41]:
+			xmin = 3.98
+			xmax = 3.99
+			text = "n"
+		intervals [42]:
+			xmin = 3.99
+			xmax = 4.17
+			text = "ɑ"
+		intervals [43]:
+			xmin = 4.17
+			xmax = 4.26
+			text = "m"
+		intervals [44]:
+			xmin = 4.26
+			xmax = 4.36
+			text = "i"
+		intervals [45]:
+			xmin = 4.36
+			xmax = 4.46
+			text = "t͡ʃ"
+		intervals [46]:
+			xmin = 4.46
+			xmax = 4.65
+			text = "ɑ"
+		intervals [47]:
+			xmin = 4.65
+			xmax = 4.67
+			text = "p"
+		intervals [48]:
+			xmin = 4.67
+			xmax = 4.79
+			text = "o"
+		intervals [49]:
+			xmin = 4.79
+			xmax = 4.8
+			text = "n"
+		intervals [50]:
+			xmin = 4.8
+			xmax = 4.91
+			text = "ɑ"
+		intervals [51]:
+			xmin = 4.91
+			xmax = 5.01
+			text = "k"
+		intervals [52]:
+			xmin = 5.01
+			xmax = 5.09
+			text = "ɑ"
+		intervals [53]:
+			xmin = 5.09
+			xmax = 5.1
+			text = "n"
+		intervals [54]:
+			xmin = 5.1
+			xmax = 5.22
+			text = "m"
+		intervals [55]:
+			xmin = 5.22
+			xmax = 5.24
+			text = "ə"
+		intervals [56]:
+			xmin = 5.24
+			xmax = 5.4
+			text = "ʃ"
+		intervals [57]:
+			xmin = 5.4
+			xmax = 5.49
+			text = "ɑ"
+		intervals [58]:
+			xmin = 5.49
+			xmax = 5.59
+			text = "k"
+		intervals [59]:
+			xmin = 5.59
+			xmax = 5.64
+			text = "u"
+		intervals [60]:
+			xmin = 5.64
+			xmax = 5.69
+			text = "j"
+		intervals [61]:
+			xmin = 5.69
+			xmax = 5.72
+			text = "tʰ"
+		intervals [62]:
+			xmin = 5.72
+			xmax = 5.73
+			text = "i"
+		intervals [63]:
+			xmin = 5.73
+			xmax = 5.76
+			text = ""
+		intervals [64]:
+			xmin = 5.76
+			xmax = 5.84
+			text = "m"
+		intervals [65]:
+			xmin = 5.84
+			xmax = 5.97
+			text = "ɑ"
+		intervals [66]:
+			xmin = 5.97
+			xmax = 6.08
+			text = "s"
+		intervals [67]:
+			xmin = 6.08
+			xmax = 6.11
+			text = "n"
+		intervals [68]:
+			xmin = 6.11
+			xmax = 6.12
+			text = "e"
+		intervals [69]:
+			xmin = 6.12
+			xmax = 6.15
+			text = "j"
+		intervals [70]:
+			xmin = 6.15
+			xmax = 6.2
+			text = "e"
+		intervals [71]:
+			xmin = 6.2
+			xmax = 6.26
+			text = "ʁ"
+		intervals [72]:
+			xmin = 6.26
+			xmax = 6.37
+			text = "e"
+		intervals [73]:
+			xmin = 6.37
+			xmax = 6.39
+			text = "l"
+		intervals [74]:
+			xmin = 6.39
+			xmax = 6.49
+			text = "u"
+		intervals [75]:
+			xmin = 6.49
+			xmax = 6.63
+			text = "tʰ"
+		intervals [76]:
+			xmin = 6.63
+			xmax = 6.66
+			text = "e"
+		intervals [77]:
+			xmin = 6.66
+			xmax = 6.67
+			text = "ɾ"
+		intervals [78]:
+			xmin = 6.67
+			xmax = 6.78
+			text = "o"
+		intervals [79]:
+			xmin = 6.78
+			xmax = 6.79
+			text = "ɾ"
+		intervals [80]:
+			xmin = 6.79
+			xmax = 6.84
+			text = "tʰ"
+		intervals [81]:
+			xmin = 6.84
+			xmax = 6.88
+			text = ""
+		intervals [82]:
+			xmin = 6.88
+			xmax = 6.93
+			text = "d"
+		intervals [83]:
+			xmin = 6.93
+			xmax = 7.06
+			text = "ɑ"
+		intervals [84]:
+			xmin = 7.06
+			xmax = 7.11
+			text = "ɾ"
+		intervals [85]:
+			xmin = 7.11
+			xmax = 7.17
+			text = "i"
+		intervals [86]:
+			xmin = 7.17
+			xmax = 7.23
+			text = "t͡sʰ"
+		intervals [87]:
+			xmin = 7.23
+			xmax = 7.3
+			text = "s"
+		intervals [88]:
+			xmin = 7.3
+			xmax = 7.34
+			text = "k"
+		intervals [89]:
+			xmin = 7.34
+			xmax = 7.36
+			text = "ə"
+		intervals [90]:
+			xmin = 7.36
+			xmax = 7.5
+			text = "s"
+		intervals [91]:
+			xmin = 7.5
+			xmax = 7.64
+			text = "ɑ"
+		intervals [92]:
+			xmin = 7.64
+			xmax = 7.8
+			text = "t͡s"
+		intervals [93]:
+			xmin = 7.8
+			xmax = 8.04
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentenceOriginal"
+		xmin = 0.0
+		xmax = 8.04
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.04
+			text = "Բալենու ծաղկման դիտումը, որը հայտնի է որպես հանամի, ճապոնական մշակույթի մասն է եղել 8-րդ դարից սկսած։"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentenceNormalized"
+		xmin = 0.0
+		xmax = 8.04
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.04
+			text = "Բալենու ծաղկման դիտումը որը հայտնի է որպես հանամի ճապոնական մշակույթի մասն է եղել ութերորդ դարից սկսած"
+	item [5]:
+		class = "IntervalTier"
+		name = "notes"
+		xmin = 0.0
+		xmax = 8.04
+		intervals: size = 1
+		intervals [1]:
+			xmin = 0.0
+			xmax = 8.04
+			text = ""
